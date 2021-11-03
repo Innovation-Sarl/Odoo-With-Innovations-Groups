@@ -60,7 +60,7 @@ For more details see [the original website with graphics](https://www.tecmint.co
 
 ### The Innovations Groups Developer Team
 
-This site repository can still be access and modify via[repository settings](https://github.com/Innovation-Sarl/Odoo-With-Innovations-Groups/settings/pages). 
+This site repository can still be access and modify via [repository settings](https://github.com/Innovation-Sarl/Odoo-With-Innovations-Groups/settings/pages). 
 
 ### Support or Contact
 
