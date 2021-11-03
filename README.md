@@ -2,7 +2,7 @@
 
 We are a multinational company that you help you to simplify your inventory management, and track your needs. 
 
-You can visit our official page (https://innovations-groups.com) to to learn more about our services. 
+You can visit our official page [](https://innovations-groups.com) to to learn more about our services. 
 
 You will find here the code that help us to get this customer satisfaction going everyday below. 
 
