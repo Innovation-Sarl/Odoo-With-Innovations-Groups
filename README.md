@@ -20,7 +20,7 @@ $ wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.5/wkhtm
 $ sudo dpkg -i  wkhtmltox_0.12.5-1.bionic_amd64.deb\
 $ sudo apt -f install\
 $ which wkhtmltopdf\
-$ which wkhtmltoimage\
+$ which wkhtmltoimage
 
 2- Installing Odoo 13 in Ubuntu
 
@@ -31,7 +31,7 @@ $ systemctl status odoo\
 $ systemctl is-enabled odoo\
 $ sudo netstat -tpln\
 OR\
-$ sudo ss -tpln\
+$ sudo ss -tpln
 
 3- Install and Configure Nginx as a Reverse Proxy for Odoo
 
@@ -46,7 +46,7 @@ $ sudo nginx -t\
 $ sudo systemctl restart nginx\
 $ sudo ufw allow http\
 $ sudo ufw allow https\
-$ sudo ufw reload\
+$ sudo ufw reload
 
 4- Accessing Odoo Web Administration Interface
 
