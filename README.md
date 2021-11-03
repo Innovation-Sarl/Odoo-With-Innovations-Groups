@@ -11,6 +11,7 @@ You will find here the code that help us to get this customer satisfaction going
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+
 Syntax highlighted code block
 1- Installing PostgreSQL and Wkhtmltopdf on Ubuntu
 
