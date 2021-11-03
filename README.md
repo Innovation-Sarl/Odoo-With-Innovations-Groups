@@ -10,7 +10,6 @@ You will find here the code that help us to get this customer satisfaction going
 
 ```
 
-Syntax highlighted code block
 1- Installing PostgreSQL and Wkhtmltopdf on Ubuntu
 
 $ sudo apt update\
@@ -59,7 +58,7 @@ Innovations Groups
 
 For more details see [the original website with graphics](https://www.tecmint.com/install-odoo-in-ubuntu/).
 
-### The Innovations Groups Developer Team
+### The Developer Team
 
 This site repository can still be access and modify via [repository settings](https://github.com/Innovation-Sarl/Odoo-With-Innovations-Groups/settings/pages). 
 
