@@ -50,7 +50,7 @@ $ sudo ufw reload
 
 ```
 
-4- Accessing Odoo Web Administration Interface
+Accessing Odoo Web Administration Interface
 
 Innovations Groups
 
