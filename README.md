@@ -8,6 +8,7 @@ You will find here the code that help us to get this customer satisfaction going
 
 ### Code
 
+```
 
 Syntax highlighted code block
 1- Installing PostgreSQL and Wkhtmltopdf on Ubuntu
@@ -47,6 +48,8 @@ $ sudo systemctl restart nginx\
 $ sudo ufw allow http\
 $ sudo ufw allow https\
 $ sudo ufw reload
+
+```
 
 4- Accessing Odoo Web Administration Interface
 
