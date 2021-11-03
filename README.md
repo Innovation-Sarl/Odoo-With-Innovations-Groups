@@ -64,4 +64,4 @@ This site repository can still be access and modify via [repository settings](ht
 
 ### Support or Contact
 
-Having trouble with Pages? [contact support](https://innovations-groups.com/contact-us/) and we’ll help you sort it out.
+Having trouble with Pages? [contact support](https://innovations-groups.com/contact-us/) and we’ll help you sort it out!
