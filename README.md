@@ -54,7 +54,7 @@ $ sudo ufw reload
 
 Innovations Groups
 
-[Link](https://innovations-groups.com/)
+[Company Website](https://innovations-groups.com/)
 
 For more details see [the original website with graphics](https://www.tecmint.com/install-odoo-in-ubuntu/).
 
