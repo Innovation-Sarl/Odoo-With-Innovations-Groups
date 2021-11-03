@@ -6,11 +6,8 @@ You can visit our official page (https://innovations-groups.com) to to learn mor
 
 You will find here the code that help us to get this customer satisfaction going everyday below. 
 
-### Markdown
+### Code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 
 Syntax highlighted code block
 1- Installing PostgreSQL and Wkhtmltopdf on Ubuntu
